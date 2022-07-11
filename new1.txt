@@ -1,2 +1,6 @@
 This a new file.
+<<<<<<< HEAD
 增加合并部分
+=======
+这是分支demo的内容
+>>>>>>> demo
